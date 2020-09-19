@@ -9,8 +9,8 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
+  title: 'Ashutosh',
+  name: 'Gatsby generator',
   subtitle: '',
   cta: '',
 };
@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
+  paragraphOne: 'this is about',
+  paragraphTwo: 'this is about 2',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
